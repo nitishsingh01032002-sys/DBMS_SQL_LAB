@@ -136,14 +136,7 @@ Concepts Covered:
 
 
 ---
-
-## 👤 Student Details
-- **Name:** Alok Kumar  
-- **Roll No:** 23425
-- **Reg. No:** 23105128017
-- **Branch :** CSE 
-- **College:** BPMCE,Madhepura 
-- **Session:** 2023–2027  
+ 
 
 ---
 
